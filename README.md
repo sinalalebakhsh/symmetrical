@@ -1,6 +1,6 @@
-# Correspondence
+# symmetrical
 
-Correspondence
+symmetrical
 It is the name of my first novel.
 It is a fictional story about the youth of a sculptor.
 This young man wants to make the best sculpture in competition with other sculptors.
@@ -17,7 +17,7 @@ And with this creativity, he is chosen as the best sculptor of the century by th
 Many people believe that this statue is not only not symmetrical, but also disgusting.
 People find out about the murder of the young artist and blackmail him.
 I will write the rest of the story later.
-قرینه.
+متقارن.قرینه
 نام اولین رمان من است.
 داستانی خیالی درباره جوانی مجسمه ساز می باشد.
 این جوان در رقابت با مجسمه سازان دیگر می خواهد بهترین مجسمه را بسازد. 
