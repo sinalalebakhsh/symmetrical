@@ -17,6 +17,8 @@ And with this creativity, he is chosen as the best sculptor of the century by th
 Many people believe that this statue is not only not symmetrical, but also disgusting.
 People find out about the murder of the young artist and blackmail him.
 I will write the rest of the story later.
+
+
 متقارن.قرینه
 نام اولین رمان من است.
 داستانی خیالی درباره جوانی مجسمه ساز می باشد.
